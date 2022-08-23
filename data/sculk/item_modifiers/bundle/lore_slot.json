@@ -1,0 +1,32 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Slot ",
+        "color": "white",
+        "italic": false,
+        "extra": [
+          {
+            "score": {
+              "name": "$iteration3",
+              "objective": "sculk.items.bundle"
+            },
+            "extra": [
+              {
+                "text": ": ",
+                "extra": [
+                  {
+                    "selector": "@e[type=item,tag=outer.item.name,limit=1]"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "replace": false
+  }
+]

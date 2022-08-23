@@ -1,0 +1,1 @@
+data modify storage sculk:items/bundle input set from entity @s SelectedItem
