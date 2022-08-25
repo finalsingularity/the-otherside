@@ -1,4 +1,3 @@
-say withdraw
 data modify storage sculk:items/bundle lock set value 1b
 
 scoreboard players set $selected sculk.items.bundle 1

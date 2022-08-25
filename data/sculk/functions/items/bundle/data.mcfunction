@@ -6,7 +6,6 @@ execute if score $bundle_in sculk.items.bundle matches 1 run data modify storage
 
 data modify storage sculk:items/bundle bundle set from storage sculk:items/bundle data.slots
 data modify storage sculk:items/bundle inventory set from entity @s Inventory
-data remove storage sculk:items/bundle inventory[{id:"minecraft:bundle"}]
 
 execute store result score $count sculk.items.bundle run data get storage sculk:items/bundle inventory
 execute store result score $bundle_slots sculk.items.bundle run data get storage sculk:items/bundle bundle
