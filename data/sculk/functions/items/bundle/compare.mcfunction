@@ -1,4 +1,3 @@
-# tellraw @a {"nbt":"input","storage":"sculk:items/bundle"}
 data modify storage sculk:items/bundle compare set from storage sculk:items/bundle slots[0]
 data modify storage sculk:items/bundle slot set from storage sculk:items/bundle slots[0]
 data remove storage sculk:items/bundle slots[0]

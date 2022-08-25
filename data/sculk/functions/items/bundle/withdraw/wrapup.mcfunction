@@ -1,0 +1,1 @@
+data modify storage sculk:items/bundle bundle append from storage sculk:items/bundle slots[]
