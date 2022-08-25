@@ -1,0 +1,157 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 20,
+          "quality": -2
+        },
+        {
+          "type": "item",
+          "weight": 70,
+          "name": "minecraft:sheep_spawn_egg",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{EntityTag:{id:\"minecraft:iron_golem\",CustomNameVisible:1b,Health:100f,CustomName:'{\"text\":\"Lesser Clockwork Warden\"}',HandItems:[{id:\"minecraft:poppy\",Count:1b},{}],HandDropChances:[1.000F,0.085F],Attributes:[{Name:generic.max_health,Base:125},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.25},{Name:generic.attack_damage,Base:8-22}]}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Lesser Clockwork Egg"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "A prototype iron clockwork egg "
+                },
+                {
+                  "text": "made by an eccentric tinkerer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 30,
+          "quality": 0,
+          "name": "minecraft:sheep_spawn_egg",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{EntityTag:{id:\"minecraft:iron_golem\",CustomNameVisible:1b,Health:200f,PlayerCreated:1b,CustomName:'{\"text\":\"Clockwork Warden\"}',HandItems:[{id:\"minecraft:poppy\",Count:1b},{}],HandDropChances:[1.000F,0.085F],Attributes:[{Name:generic.max_health,Base:250},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.3},{Name:generic.attack_damage,Base:10-25}]}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Clockwork Egg"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "An iron clockwork egg made by"
+                },
+                {
+                  "text": " an eccentric tinkerer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "quality": 1,
+          "name": "minecraft:sheep_spawn_egg",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{EntityTag:{id:\"minecraft:iron_golem\",CustomNameVisible:1b,Health:300f,PlayerCreated:1b,CustomName:'{\"text\":\"Greater Clockwork Warden\",\"color\":\"gold\"}',HandItems:[{id:\"minecraft:poppy\",Count:1b},{}],HandDropChances:[1.000F,0.085F],ActiveEffects:[{Id:12,Amplifier:5b,Duration:19999980,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:375},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.4},{Name:generic.attack_damage,Base:18-35}]}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Greater Clockwork Egg",
+                  "color": "gold"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "An iron clockwork egg made by"
+                },
+                {
+                  "text": "an eccentric master tinkerer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "quality": 3,
+          "name": "minecraft:sheep_spawn_egg",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{EntityTag:{id:\"minecraft:iron_golem\",Glowing:1b,CustomNameVisible:1b,Health:400f,PlayerCreated:1b,CustomName:'{\"text\":\"Legendary Clockwork Warden\",\"color\":\"aqua\",\"bold\":true}',HandItems:[{id:\"minecraft:poppy\",Count:1b},{id:\"minecraft:heart_of_the_sea\",Count:1b,tag:{display:{Name:'[{\"text\":\"E\",\"color\":\"#FF0000\",\"bold\":true},{\"text\":\"a\",\"color\":\"#FF5E00\",\"bold\":true},{\"text\":\"s\",\"color\":\"#FFB300\",\"bold\":true},{\"text\":\"t\",\"color\":\"#FFFF00\",\"bold\":true},{\"text\":\"e\",\"color\":\"#5EFF00\",\"bold\":true},{\"text\":\"r \",\"color\":\"#009919\",\"bold\":true},{\"text\":\"E\",\"color\":\"#021ED4\",\"bold\":true},{\"text\":\"g\",\"color\":\"#7F0C9C\",\"bold\":true},{\"text\":\"g\",\"color\":\"#FF5CFF\",\"bold\":true}]',Lore:['{\"text\":\"It\\'s an Easter Egg! Congratulation!\",\"color\":\"gold\"}']},CustomModelData:7000}}],HandDropChances:[1.000F,0.010F],ArmorItems:[{},{},{id:\"minecraft:nether_star\",Count:1b},{}],ArmorDropChances:[0.085F,0.085F,0.500F,0.085F],ActiveEffects:[{Id:12,Amplifier:10b,Duration:19999980,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:500},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.5},{Name:generic.attack_damage,Base:35-55}]}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Legendary Clockwork Egg",
+                  "color": "aqua",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "An iron clockwork egg made by an"
+                },
+                {
+                  "text": "unparalleled master tinkerer."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

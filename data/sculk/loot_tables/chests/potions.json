@@ -1,0 +1,391 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:29,Amplifier:2b,Duration:6000}],CustomPotionColor:3724977}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "I Sea"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Become one with the sea."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:3,Amplifier:3b,Duration:600},{Id:12,Amplifier:1b,Duration:600},{Id:33,Amplifier:5b,Duration:600}],CustomPotionColor:10909786}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Worm Juice"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "You become a worm. Simple."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:1,Amplifier:1b,Duration:400},{Id:3,Amplifier:5b,Duration:400},{Id:5,Amplifier:10b,Duration:400},{Id:11,Amplifier:5b,Duration:400},{Id:12,Amplifier:5b,Duration:400},{Id:20,Amplifier:1b,Duration:400},{Id:30,Amplifier:5b,Duration:400}],CustomPotionColor:16744479}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Overdrive"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "It's all or nothing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:1,Amplifier:2b,Duration:500},{Id:3,Amplifier:2b,Duration:500},{Id:5,Amplifier:7b,Duration:500},{Id:11,Amplifier:1b,Duration:500},{Id:17,Amplifier:2b,Duration:800},{Id:19,Amplifier:2b,Duration:600},{Id:33,Amplifier:1b,Duration:600}],CustomPotionColor:16711680}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Beserker's Rage"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Break past your limits, "
+                },
+                {
+                  "text": "at a cost."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:2,Amplifier:255b,Duration:200},{Id:4,Amplifier:255b,Duration:200},{Id:11,Amplifier:2b,Duration:200},{Id:18,Amplifier:255b,Duration:200},{Id:33,Amplifier:10b,Duration:200}],CustomPotionColor:11048859}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Medusa's Instant Concrete"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "It's all in the name."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:2,Amplifier:255b,Duration:200}],CustomPotionColor:0}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Sticky Tar"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Warning: Extreme stick!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:1,Amplifier:100b,Duration:200},{Id:3,Amplifier:100b,Duration:100},{Id:29,Amplifier:100b,Duration:100},{Id:30,Amplifier:100b,Duration:200}],CustomPotionColor:7520207}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Death Strider"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "I am SPEEEEEEEED!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:2,Amplifier:5b,Duration:200},{Id:18,Amplifier:5b,Duration:200},{Id:33,Amplifier:5b,Duration:200}],CustomPotionColor:0}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Shadow Mist"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Warning: Distilled Darkness!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:8,Amplifier:5b,Duration:600},{Id:28,Amplifier:1b,Duration:600}],CustomPotionColor:10747135}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Bottle 'o' Bubbles"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Be one with the bouncy bubbles!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:lingering_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:11,Amplifier:10b,Duration:120},{Id:25,Amplifier:120b,Duration:10}],CustomPotionColor:1703705}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Bounce Pad"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Share the fun with friends!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:25,Amplifier:100b,Duration:20}],CustomPotionColor:4653056}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unstable Rocket Fuel"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "It's not the fall but the sudden"
+                },
+                {
+                  "text": "deceleration that kills you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:11,Amplifier:10b,Duration:240},{Id:25,Amplifier:120b,Duration:40}],CustomPotionColor:4325376}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Rocket Fuel"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Is it fun? Absolutely!"
+                },
+                {
+                  "text": "Is it safe? Probably not."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
