@@ -1,0 +1,30 @@
+{
+  "temperature": 0.5,
+  "downfall": 0.9,
+  "precipitation": "none",
+  "effects": {
+    "sky_color": 66859,
+    "fog_color": 532056,
+    "water_color": 336939,
+    "water_fog_color": 336929
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "sculk:corrupted_trees",
+      "sculk:withered_trees"
+    ],
+    []
+  ]
+}

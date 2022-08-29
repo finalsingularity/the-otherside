@@ -1,0 +1,17 @@
+{
+  "feature": "sculk:corrupted_spike",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:matching_blocks",
+        "offset": [
+          0,
+          -16,
+          0
+        ],
+        "blocks": "minecraft:sculk"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+
+{
+  "structures": [
+    {
+      "structure": "sculk:corrupted_spikes",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 1,
+    "separation": 0,
+    "salt": 8735793
+  }
+}
