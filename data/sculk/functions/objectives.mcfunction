@@ -1,8 +1,13 @@
 # Misc
 scoreboard objectives add sculk.config dummy
 scoreboard objectives add sculk.debug dummy
+scoreboard objectives add sculk.math dummy
+scoreboard objectives add sculk.constants dummy
+
+# Player
 scoreboard objectives add sculk.player.slot dummy
 scoreboard objectives add sculk.player.sneak minecraft.custom:sneak_time
+scoreboard objectives add sculk.corruption dummy
 
 # Bundle
 scoreboard objectives add sculk.items.bundle dummy
