@@ -1,0 +1,9 @@
+item replace entity @s inventory.9 from entity @s inventory.18
+item replace entity @s inventory.10 from entity @s inventory.19
+item replace entity @s inventory.11 from entity @s inventory.20
+item replace entity @s inventory.12 from entity @s inventory.21
+item replace entity @s inventory.13 from entity @s inventory.22
+item replace entity @s inventory.14 from entity @s inventory.23
+item replace entity @s inventory.15 from entity @s inventory.24
+item replace entity @s inventory.16 from entity @s inventory.25
+item replace entity @s inventory.17 from entity @s inventory.26

@@ -1,0 +1,3 @@
+execute unless score @s sculk.items.roller.slot matches 0.. run scoreboard players set @s sculk.items.roller.slot 0
+execute as @s[predicate=sculk:roller/offhand,scores={sculk.player.sneak=1..}] unless score @s sculk.items.roller.slot = @s sculk.player.slot run function sculk:items/roller/roll
+execute unless score @s sculk.player.sneak matches 1.. run scoreboard players operation @s sculk.items.roller.slot = @s sculk.player.slot

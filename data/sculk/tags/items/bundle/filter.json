@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+      "#taglib:unstackable",
+      "#taglib:quarter_stackable"
+  ]
+}
