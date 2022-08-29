@@ -1,6 +1,8 @@
 scoreboard players add $iteration3 sculk.items.bundle 1
 
 data modify storage sculk:items/bundle slot set from storage sculk:items/bundle bundle[0]
+execute store result score $slot_count sculk.items.bundle run data get storage sculk:items/bundle slot.Count 1
+
 data modify storage sculk:items/bundle slot.Count set value 1b
 data remove storage sculk:items/bundle bundle[0]
 
