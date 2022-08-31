@@ -7,6 +7,7 @@
     "fog_color": 532056,
     "water_color": 336939,
     "water_fog_color": 336929,
+    "grass_color": 4672586,
     "particle": {
       "options": {
         "type": "sculk_soul"
@@ -27,10 +28,13 @@
     [],
     [
       "minecraft:sculk_vein",
-      "minecraft:sculk_patch_deep_dark"
+      "sculk:sculk_patch"
     ],
     [],
-    [],
+    [
+      "sculk:wilting_meadows_flowers",
+      "minecraft:patch_grass_plain"
+    ],
     []
   ]
 }

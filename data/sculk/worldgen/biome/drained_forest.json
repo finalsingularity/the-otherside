@@ -3,10 +3,16 @@
   "downfall": 0.9,
   "precipitation": "none",
   "effects": {
-    "sky_color": 66859,
-    "fog_color": 532056,
+    "sky_color": 7570811,
+    "fog_color": 6918512,
     "water_color": 336939,
-    "water_fog_color": 336929
+    "water_fog_color": 336929,
+    "particle": {
+      "options": {
+        "type": "spore_blossom_air"
+      },
+      "probability": 0.002
+    }
   },
   "spawners": {},
   "spawn_costs": {},
@@ -19,7 +25,9 @@
     [],
     [],
     [],
-    [],
+    [
+      "minecraft:sculk_vein"
+    ],
     [],
     [
       "sculk:corrupted_trees",

@@ -3,10 +3,11 @@
   "downfall": 0.7,
   "precipitation": "none",
   "effects": {
-    "sky_color": 66859,
-    "fog_color": 532056,
+    "sky_color": 66839,
+    "fog_color": 66859,
     "water_color": 336939,
     "water_fog_color": 336929,
+    "grass_color": 4672586,
     "particle": {
       "options": {
         "type": "end_rod"
@@ -17,5 +18,20 @@
   "spawners": {},
   "spawn_costs": {},
   "carvers": {},
-  "features": []
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "sculk:wilting_meadows_flowers",
+      "minecraft:patch_taiga_grass"
+    ],
+    []
+  ]
 }

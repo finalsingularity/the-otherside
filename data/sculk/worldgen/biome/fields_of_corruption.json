@@ -3,10 +3,16 @@
   "downfall": 0.8,
   "precipitation": "none",
   "effects": {
-    "sky_color": 1376820,
-    "fog_color": 532056,
+    "sky_color": 4012102,
+    "fog_color": 10131862,
     "water_color": 336939,
-    "water_fog_color": 336929
+    "water_fog_color": 2567984,
+    "particle": {
+      "options": {
+        "type": "white_ash"
+      },
+      "probability": 0.118093334
+    }
   },
   "spawners": {},
   "spawn_costs": {},
@@ -21,7 +27,7 @@
     [],
     [
       "minecraft:sculk_vein",
-      "minecraft:sculk_patch_deep_dark"
+      "sculk:sculk_patch"
     ],
     [],
     [],

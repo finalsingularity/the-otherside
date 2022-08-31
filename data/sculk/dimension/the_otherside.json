@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:overworld",
+  "type": "sculk:the_otherside",
   "generator": {
     "biome_source": {
       "biomes": [
@@ -61,7 +61,7 @@
             ],
             "offset": 0
           },
-          "biome": "sculk:sculk_plains"
+          "biome": "sculk:wilting_meadows"
         },
         {
           "parameters": {
