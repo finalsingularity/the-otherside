@@ -1,0 +1,17 @@
+[
+  {
+    "condition": "minecraft:value_check",
+    "value": {
+      "type": "minecraft:score",
+      "target": "this",
+      "score": "sculk.corruption"
+    },
+    "range": {
+      "max": 9
+    }
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "sculk:corruption/can_corrupt"
+  }
+]

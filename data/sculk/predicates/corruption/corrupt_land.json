@@ -1,0 +1,32 @@
+[
+  {
+    "condition": "minecraft:value_check",
+    "value": {
+      "type": "minecraft:score",
+      "target": "this",
+      "score": "sculk.corruption"
+    },
+    "range": {
+      "max": 9
+    }
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "stepping_on": {
+          "fluid": {
+            "fluid": "minecraft:water",
+            "tag": "minecraft:water"
+          }
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "sculk:corruption/can_corrupt"
+  }
+]

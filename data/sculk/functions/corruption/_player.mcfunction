@@ -1,0 +1,1 @@
+execute as @s[scores={sculk.corruption=1..}] run function sculk:corruption/effects

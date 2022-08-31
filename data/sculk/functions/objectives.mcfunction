@@ -7,6 +7,7 @@ scoreboard objectives add sculk.constants dummy
 # Player
 scoreboard objectives add sculk.player.slot dummy
 scoreboard objectives add sculk.player.sneak minecraft.custom:sneak_time
+scoreboard objectives add sculk.player.death deathCount
 scoreboard objectives add sculk.corruption dummy
 
 # Bundle
