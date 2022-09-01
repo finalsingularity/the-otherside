@@ -1,23 +1,14 @@
 [
   {
-    "condition": "minecraft:entity_properties",
+    "condition": "minecraft:entity_scores",
     "entity": "this",
-    "predicate": {
-      "type_specific": {
-        "type": "player",
-        "gamemode": "adventure"
-      }
+    "scores": {
+      "sculk.corruption.cooldown": 0
     }
   },
   {
-    "condition": "minecraft:entity_properties",
-    "entity": "this",
-    "predicate": {
-      "type_specific": {
-        "type": "player",
-        "gamemode": "survival"
-      }
-    }
+    "condition": "minecraft:reference",
+    "name": "sculk:has_healthbar"
   },
   {
     "condition": "minecraft:reference",

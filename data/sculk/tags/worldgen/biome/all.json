@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "sculk:star_plains",
+    "sculk:drained_forest",
+    "sculk:fields_of_corruption",
+    "sculk:wilting_meadows"
+  ]
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "condition": "minecraft:reference",
+    "name": "sculk:has_healthbar"
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:reference",
+      "name": "sculk:in_the_otherside"
+    }
+  }
+]

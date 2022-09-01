@@ -1,0 +1,60 @@
+{
+  "name": "sculk:ruins",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "sculk:ruins/ruins_1",
+        "processors": "minecraft:ancient_city_generic_degradation"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "sculk:ruins/ruins_2",
+        "processors": "minecraft:ancient_city_generic_degradation"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "sculk:ruins/ruins_3",
+        "processors": "minecraft:ancient_city_generic_degradation"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "sculk:ruins/ruined_noble",
+        "processors": "minecraft:ancient_city_generic_degradation"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "sculk:ruins/wool_pile",
+        "processors": "minecraft:ancient_city_generic_degradation"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "sculk:ruins/pillar",
+        "processors": "minecraft:ancient_city_generic_degradation"
+      }
+    }
+  ]
+}

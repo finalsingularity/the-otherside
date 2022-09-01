@@ -226,7 +226,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{HideFlags:34,RepairCost:500,Enchantments:[{id:\"minecraft:looting\",lvl:5s},{id:\"minecraft:sweeping\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.luck\",Name:\"generic.luck\",Amount:5,Operation:2,UUID:[I;483847043,-1911470372,-1493007995,-1350152974],Slot:\"mainhand\"}]}"
+              "tag": "{HideFlags:34,RepairCost:500,CustomModelData:7001,Enchantments:[{id:\"minecraft:looting\",lvl:5s},{id:\"minecraft:sweeping\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.luck\",Name:\"generic.luck\",Amount:5,Operation:2,UUID:[I;483847043,-1911470372,-1493007995,-1350152974],Slot:\"mainhand\"}]}"
             },
             {
               "function": "set_damage",

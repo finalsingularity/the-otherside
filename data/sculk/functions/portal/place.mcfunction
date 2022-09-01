@@ -1,0 +1,2 @@
+execute if block ~1 ~-1 ~ reinforced_deepslate run fill ~10 ~ ~ ~-10 ~6 ~ end_gateway replace #sculk:portal_replaceable
+execute if block ~ ~-1 ~1 reinforced_deepslate run fill ~ ~ ~10 ~ ~6 ~-10 end_gateway replace #sculk:portal_replaceable

@@ -1,1 +1,357 @@
-{}
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:totem_of_undying",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7008,sculk_id:\"sculk:infused_totem\"}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Infused Totem",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "A ritualistic totem fused with"
+                },
+                {
+                  "text": "some life essence "
+                },
+                {
+                  "text": "of the world."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:totem_of_undying",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7000,sculk_id:\"sculk:fire_totem\"}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Fire Totem",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "A ritualistic totem fused with"
+                  }
+                ],
+                [
+                  {
+                    "text": "elemental life essence "
+                  }
+                ],
+                [
+                  {
+                    "text": "of the world."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:totem_of_undying",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7001,sculk_id:\"sculk:wind_totem\"}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Wind Totem",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "A ritualistic totem fused with"
+                  }
+                ],
+                [
+                  {
+                    "text": "elemental life essence "
+                  }
+                ],
+                [
+                  {
+                    "text": "of the world."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:totem_of_undying",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7002,sculk_id:\"sculk:earth_totem\"}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Earth Totem",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "A ritualistic totem fused with"
+                  }
+                ],
+                [
+                  {
+                    "text": "elemental life essence "
+                  }
+                ],
+                [
+                  {
+                    "text": "of the world."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:totem_of_undying",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7003,sculk_id:\"sculk:water_totem\"}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Water Totem",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "A ritualistic totem fused with"
+                  }
+                ],
+                [
+                  {
+                    "text": "elemental life essence "
+                  }
+                ],
+                [
+                  {
+                    "text": "of the world."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:totem_of_undying",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7004,sculk_id:\"sculk:night_totem\"}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Night Totem",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "A ritualistic totem fused with"
+                  }
+                ],
+                [
+                  {
+                    "text": "elemental life essence "
+                  }
+                ],
+                [
+                  {
+                    "text": "of the world."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:totem_of_undying",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7005,sculk_id:\"sculk:health_totem\"}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Health Totem",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "A ritualistic totem fused with"
+                  }
+                ],
+                [
+                  {
+                    "text": "elemental life essence "
+                  }
+                ],
+                [
+                  {
+                    "text": "of the world."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:totem_of_undying",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7006,sculk_id:\"sculk:regen_totem\"}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Regen Totem",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "A ritualistic totem fused with"
+                  }
+                ],
+                [
+                  {
+                    "text": "elemental life essence "
+                  }
+                ],
+                [
+                  {
+                    "text": "of the world."
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+effect give @s regeneration 1 0 true

@@ -4,9 +4,7 @@
   "predicate": {
     "equipment": {
       "offhand": {
-        "items": [
-          "minecraft:bundle"
-        ]
+        "nbt": "{sculk_id:\"sculk:bundle\"}"
       }
     }
   }

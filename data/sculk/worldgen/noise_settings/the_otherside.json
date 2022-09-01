@@ -438,21 +438,6 @@
                       "if_true": {
                         "type": "minecraft:biome",
                         "biome_is": [
-                          "sculk:star_plains"
-                        ]
-                      },
-                      "then_run": {
-                        "type": "minecraft:block",
-                        "result_state": {
-                          "Name": "minecraft:grass_block"
-                        }
-                      }
-                    },
-                    {
-                      "type": "minecraft:condition",
-                      "if_true": {
-                        "type": "minecraft:biome",
-                        "biome_is": [
                           "sculk:wilting_meadows"
                         ]
                       },

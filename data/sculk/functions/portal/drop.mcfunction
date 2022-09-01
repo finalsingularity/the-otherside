@@ -1,0 +1,2 @@
+execute at @s run summon item ~ ~ ~ {Item:{id:"minecraft:blaze_spawn_egg",Count:1b,tag:{display:{Name:'{"text":"Warden\'s Key","italic":false}'},CustomModelData:7000,EntityTag:{id:"minecraft:armor_stand",Invisible:1b,Tags:["sculk.portal.key"],HandItems:[{id:"minecraft:tripwire_hook",Count:1b,tag:{CustomModelData:7000}},{}]}}}}
+kill @s

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "sculk:corrupted_garden",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 11,
+    "separation": 9,
+    "salt": 28834345
+  }
+}

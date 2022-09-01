@@ -1,1 +1,90 @@
-{}
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bundle",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Explorer's Bundle",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7000,sculk_id:\"sculk:bundle\",size:9b,stack:64s,withdraw:64b,slots:[],Items:[]}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Slots: 9 - Stack: 64",
+                  "color": "gray",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bundle",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Generalist's Bundle",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7001,sculk_id:\"sculk:bundle\",size:6b,stack:96s,withdraw:64b,slots:[],Items:[]}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Slots: 6 - Stack: 96",
+                  "color": "gray",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bundle",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Specialist's Bundle",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7002,sculk_id:\"sculk:bundle\",size:3b,stack:192s,withdraw:64b,slots:[],Items:[]}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Slots: 3 - Stack: 192",
+                  "color": "gray",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

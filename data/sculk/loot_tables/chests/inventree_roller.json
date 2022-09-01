@@ -1,1 +1,80 @@
-{}
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:debug_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Inven-tree Roller",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{sculk_id:\"sculk:roller\"}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Legends say that sneaking"
+                },
+                {
+                  "text": "whilst scrolling, and holding"
+                },
+                {
+                  "text": "the roller in the offhand improves"
+                },
+                {
+                  "text": "management of the Inven-tree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:debug_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "Magnet",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7000,sculk_id:\"sculk:magnet\",uses:32s,max_uses:64s,cooldown:100s}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Mending",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "Legends say that sneaking"
+                },
+                {
+                  "text": "whilst holding the magnet in"
+                },
+                {
+                  "text": "your offhand, activates its power."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

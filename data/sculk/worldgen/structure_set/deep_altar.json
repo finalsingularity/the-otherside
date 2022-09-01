@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "sculk:deep_altar",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 18,
+    "separation": 6,
+    "salt": 94754735
+  }
+}

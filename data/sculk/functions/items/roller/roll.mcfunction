@@ -1,4 +1,4 @@
-scoreboard players set $lock sculk.items.roller 1
+data modify storage sculk:items/roller lock set value 1b
 
 scoreboard players operation $next_slot sculk.items.roller = @s sculk.items.roller.slot
 scoreboard players operation $prev_slot sculk.items.roller = @s sculk.items.roller.slot
@@ -11,4 +11,4 @@ execute if score @s sculk.player.slot <= $prev_slot sculk.items.roller run funct
 
 scoreboard players operation @s sculk.items.roller.slot = @s sculk.player.slot
 
-scoreboard players set $lock sculk.items.roller 0
+data remove storage sculk:items/roller lock

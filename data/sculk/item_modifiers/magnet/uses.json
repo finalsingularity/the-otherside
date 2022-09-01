@@ -1,0 +1,54 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Mending",
+        "color": "gray",
+        "italic": false
+      },
+      {
+        "score": {
+          "name": "$uses",
+          "objective": "sculk.items.magnet"
+        },
+        "color": "gray",
+        "italic": false,
+        "extra": [
+          {
+            "text": "/",
+            "extra": [
+              {
+                "score": {
+                  "name": "$max_uses",
+                  "objective": "sculk.items.magnet"
+                },
+                "extra": [
+                  {
+                    "text": " uses remain."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "replace": true
+  },
+  {
+    "function": "minecraft:copy_nbt",
+    "source": {
+      "type": "minecraft:storage",
+      "source": "sculk:items/magnet"
+    },
+    "ops": [
+      {
+        "source": "data.uses",
+        "target": "uses",
+        "op": "replace"
+      }
+    ]
+  }
+]

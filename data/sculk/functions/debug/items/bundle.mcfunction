@@ -1,1 +1,1 @@
-give @s bundle{stack:128s,size:9b,withdraw:64b,slots:[],Items:[]} 1
+give @s bundle{sculk_id:"sculk:void_pouch",stack:128s,size:9b,withdraw:64b,slots:[],Items:[]} 1

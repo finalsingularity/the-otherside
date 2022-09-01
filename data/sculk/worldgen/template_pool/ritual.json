@@ -1,0 +1,24 @@
+{
+  "name": "sculk:ritual",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "sculk:ritual/ritual_1",
+        "processors": "minecraft:ancient_city_generic_degradation"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "sculk:ritual/ritual_2",
+        "processors": "minecraft:ancient_city_generic_degradation"
+      }
+    }
+  ]
+}

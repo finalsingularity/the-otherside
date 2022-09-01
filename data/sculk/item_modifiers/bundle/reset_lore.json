@@ -1,7 +1,35 @@
 [
   {
     "function": "minecraft:set_lore",
-    "lore": [],
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Slots: ",
+        "color": "gray",
+        "italic": false,
+        "extra": [
+          {
+            "score": {
+              "name": "$bundle_size",
+              "objective": "sculk.items.bundle"
+            },
+            "extra": [
+              {
+                "text": " - Stack: ",
+                "extra": [
+                  {
+                    "score": {
+                      "name": "$bundle_stack",
+                      "objective": "sculk.items.bundle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "replace": true
   }
 ]

@@ -1,0 +1,1 @@
+execute as @a[scores={sculk.portal.cooldown=..0},distance=..10] at @s if block ~ ~ ~ end_gateway run function sculk:portal/teleport/otherside

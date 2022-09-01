@@ -17,7 +17,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{EntityTag:{id:\"minecraft:iron_golem\",Glowing:1b,CustomNameVisible:1b,Health:400f,PlayerCreated:1b,CustomName:'{\"text\":\"Legendary Clockwork Warden\",\"color\":\"aqua\",\"bold\":true}',HandItems:[{id:'minecraft:poppy',Count:1b},{id:'minecraft:heart_of_the_sea',Count:1b,tag:{display:{Name:'[{\"text\":\"E\",\"color\":\"#FF0000\",\"bold\":true},{\"text\":\"a\",\"color\":\"#FF5E00\",\"bold\":true},{\"text\":\"s\",\"color\":\"#FFB300\",\"bold\":true},{\"text\":\"t\",\"color\":\"#FFFF00\",\"bold\":true},{\"text\":\"e\",\"color\":\"#5EFF00\",\"bold\":true},{\"text\":\"r \",\"color\":\"#009919\",\"bold\":true},{\"text\":\"E\",\"color\":\"#021ED4\",\"bold\":true},{\"text\":\"g\",\"color\":\"#7F0C9C\",\"bold\":true},{\"text\":\"g\",\"color\":\"#FF5CFF\",\"bold\":true}]',Lore:[\"{\\\"text\\\":\\\"It's an Easter Egg! Congratulation!\\\",\\\"color\\\":\\\"gold\\\"}\"]},CustomModelData:7000}}],HandDropChances:[1.000F,0.010F],ArmorItems:[{},{},{id:\"minecraft:nether_star\",Count:1b},{}],ArmorDropChances:[0.085F,0.085F,0.500F,0.085F],ActiveEffects:[{Id:12,Amplifier:10b,Duration:19999980,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:500},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.5},{Name:generic.attack_damage,Base:35..55}]}}"
+              "tag": "{CustomModelData:7003,EntityTag:{id:\"minecraft:iron_golem\",Glowing:1b,CustomNameVisible:1b,Health:400f,PlayerCreated:1b,CustomName:'{\"text\":\"Legendary Clockwork Warden\",\"color\":\"aqua\",\"bold\":true}',HandItems:[{id:'minecraft:poppy',Count:1b},{id:'minecraft:heart_of_the_sea',Count:1b,tag:{display:{Name:'[{\"text\":\"E\",\"color\":\"#FF0000\",\"bold\":true},{\"text\":\"a\",\"color\":\"#FF5E00\",\"bold\":true},{\"text\":\"s\",\"color\":\"#FFB300\",\"bold\":true},{\"text\":\"t\",\"color\":\"#FFFF00\",\"bold\":true},{\"text\":\"e\",\"color\":\"#5EFF00\",\"bold\":true},{\"text\":\"r \",\"color\":\"#009919\",\"bold\":true},{\"text\":\"E\",\"color\":\"#021ED4\",\"bold\":true},{\"text\":\"g\",\"color\":\"#7F0C9C\",\"bold\":true},{\"text\":\"g\",\"color\":\"#FF5CFF\",\"bold\":true}]',Lore:[\"{\\\"text\\\":\\\"It's an Easter Egg! Congratulation!\\\",\\\"color\\\":\\\"gold\\\"}\"]},CustomModelData:7000}}],HandDropChances:[1.000F,0.010F],ArmorItems:[{},{},{id:\"minecraft:nether_star\",Count:1b},{}],ArmorDropChances:[0.085F,0.085F,0.500F,0.085F],ActiveEffects:[{Id:12,Amplifier:10b,Duration:19999980,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:500},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.5},{Name:generic.attack_damage,Base:55}]}}"
             },
             {
               "function": "set_name",
@@ -25,6 +25,7 @@
                 {
                   "text": "Legendary Clockwork Egg",
                   "color": "aqua",
+                  "italic": false,
                   "bold": true
                 }
               ]
@@ -54,14 +55,15 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{EntityTag:{id:\"minecraft:iron_golem\",CustomNameVisible:1b,Health:300f,PlayerCreated:1b,CustomName:'{\"text\":\"Greater Clockwork Warden\",\"color\":\"gold\"}',HandItems:[{id:'minecraft:poppy',Count:1b},{}],HandDropChances:[1.000F,0.085F],ActiveEffects:[{Id:12,Amplifier:5b,Duration:19999980,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:375},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.4},{Name:generic.attack_damage,Base:18..25}]}}"
+              "tag": "{CustomModelData:7002,EntityTag:{id:\"minecraft:iron_golem\",CustomNameVisible:1b,Health:300f,PlayerCreated:1b,CustomName:'{\"text\":\"Greater Clockwork Warden\",\"color\":\"gold\"}',HandItems:[{id:'minecraft:poppy',Count:1b},{}],HandDropChances:[1.000F,0.085F],ActiveEffects:[{Id:12,Amplifier:5b,Duration:19999980,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:375},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.4},{Name:generic.attack_damage,Base:25}]}}"
             },
             {
               "function": "set_name",
               "name": [
                 {
                   "text": "Greater Clockwork Egg",
-                  "color": "gold"
+                  "color": "gold",
+                  "italic": false
                 }
               ]
             },
@@ -90,13 +92,14 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{EntityTag:{id:\"minecraft:iron_golem\",CustomNameVisible:1b,Health:200f,PlayerCreated:1b,CustomName:'{\"text\":\"Clockwork Warden\"}',HandItems:[{id:'minecraft:poppy',Count:1b},{}],HandDropChances:[1.000F,0.085F],Attributes:[{Name:generic.max_health,Base:250},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.3},{Name:generic.attack_damage,Base:10..22}]}}"
+              "tag": "{CustomModelData:7001,EntityTag:{id:\"minecraft:iron_golem\",CustomNameVisible:1b,Health:200f,PlayerCreated:1b,CustomName:'{\"text\":\"Clockwork Warden\"}',HandItems:[{id:'minecraft:poppy',Count:1b},{}],HandDropChances:[1.000F,0.085F],Attributes:[{Name:generic.max_health,Base:250},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.3},{Name:generic.attack_damage,Base:22}]}}"
             },
             {
               "function": "set_name",
               "name": [
                 {
-                  "text": "Clockwork Egg"
+                  "text": "Clockwork Egg",
+                  "italic": false
                 }
               ]
             },
@@ -124,13 +127,14 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{EntityTag:{id:\"minecraft:iron_golem\",CustomNameVisible:1b,Health:100f,PlayerCreated:1b,CustomName:'{\"text\":\"Lesser Clockwork Warden\"}',HandItems:[{id:'minecraft:poppy',Count:1b},{}],HandDropChances:[1.000F,0.085F],Attributes:[{Name:generic.max_health,Base:125},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.25},{Name:generic.attack_damage,Base:8..15}]}}"
+              "tag": "{CustomModelData:7000,EntityTag:{id:\"minecraft:iron_golem\",CustomNameVisible:1b,Health:100f,PlayerCreated:1b,CustomName:'{\"text\":\"Lesser Clockwork Warden\"}',HandItems:[{id:'minecraft:poppy',Count:1b},{}],HandDropChances:[1.000F,0.085F],Attributes:[{Name:generic.max_health,Base:125},{Name:generic.knockback_resistance,Base:1},{Name:generic.movement_speed,Base:0.25},{Name:generic.attack_damage,Base:15}]}}"
             },
             {
               "function": "set_name",
               "name": [
                 {
-                  "text": "Lesser Clockwork Egg"
+                  "text": "Lesser Clockwork Egg",
+                  "italic": false
                 }
               ]
             },

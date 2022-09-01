@@ -1,0 +1,1 @@
+give @s blaze_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Invisible:1b,Tags:["sculk.portal.key"],HandItems:[{id:"minecraft:tripwire_hook",Count:1b,tag:{CustomModelData:7000}},{}]}} 1

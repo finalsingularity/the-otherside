@@ -1,0 +1,1 @@
+give @s debug_stick{sculk_id:"sculk:roller"} 1

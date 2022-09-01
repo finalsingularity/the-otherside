@@ -1,0 +1,1 @@
+execute as @a[scores={sculk.portal.cooldown=1..}] at @s unless block ~ ~ ~ end_gateway run scoreboard players remove @s sculk.portal.cooldown 1
