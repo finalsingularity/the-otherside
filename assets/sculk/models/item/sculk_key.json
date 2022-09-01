@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/template_spawn_egg",
+  "textures": {
+    "layer0": "sculk:item/sculk_key",
+    "layer1": "sculk:item/sculk_key"
+  }
+}

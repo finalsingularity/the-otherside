@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bundle"
+    },
+    "overrides": [
+        { "predicate": { "filled": 0.0000001 }, "model": "item/bundle_filled" },
+        {
+            "predicate": {
+                "custom_model_data": 7000
+            },
+            "model": "sculk:item/bundles/explorer"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7001
+            },
+            "model": "sculk:item/bundles/generalist"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7002
+            },
+            "model": "sculk:item/bundles/specialist"
+        }
+    ]
+}
