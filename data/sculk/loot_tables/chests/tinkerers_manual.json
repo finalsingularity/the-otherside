@@ -1,0 +1,43 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{title:\"\",author:\"A Forgotten Tinkerer\",generation:3,pages:['{\"text\":\"As even our mighty wardens fought to protect us and were corrupted during combat, mass producible imitations of iron were made, fueled by the life and hope of our dying world – a poppy. The clockwork egg symbolises birth and our hope for a new beginning.\\\\nRemembrance and hope.\\\\n\"}']}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Tinkerer's Manual"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "A manual written by a"
+                },
+                {
+                  "text": " forgotten tinkerer."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

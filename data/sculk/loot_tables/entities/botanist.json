@@ -1,0 +1,82 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 5
+        },
+        {
+          "type": "loot_table",
+          "weight": 5,
+          "quality": 1,
+          "name": "sculk:entities/essence",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 55
+        },
+        {
+          "type": "item",
+          "weight": 15,
+          "quality": 2,
+          "name": "minecraft:golden_apple",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 30,
+          "quality": 2,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 6,
+          "quality": 1
+        },
+        {
+          "type": "loot_table",
+          "weight": 4,
+          "name": "sculk:chests/botanists_notebook",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

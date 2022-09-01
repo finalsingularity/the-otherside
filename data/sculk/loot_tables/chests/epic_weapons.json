@@ -1,0 +1,307 @@
+{
+  "type": "chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:bow",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:34,RepairCost:500,Enchantments:[{id:\"minecraft:power\",lvl:5s},{id:\"minecraft:punch\",lvl:3s},{id:\"minecraft:infinity\",lvl:1s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.follow_range\",Name:\"generic.follow_range\",Amount:10,Operation:0,UUID:[I;385988633,759713485,-1300370121,500447779]}]}"
+            },
+            {
+              "function": "set_damage",
+              "damage": 7
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Arcane Bow of the Archer",
+                  "color": "dark_purple",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "This bow has been enchanted"
+                },
+                {
+                  "text": "with arcane arts,"
+                },
+                {
+                  "text": "beyond belief."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:34,RepairCost:500,Enchantments:[{id:\"minecraft:unbreaking\",lvl:2s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:2,Operation:0,UUID:[I;1055026812,957434472,-1391136614,1729149371]},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:2,Operation:0,UUID:[I;-1835410148,-730641759,-1831442988,-371347036]}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Bulwark of the Brave",
+                  "color": "#19FF21",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Clad in the courage of"
+                },
+                {
+                  "text": "brave heroes this shield"
+                },
+                {
+                  "text": "protects life."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_axe",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{RepairCost:500,CustomModelData:7000,Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:efficiency\",lvl:3s},{id:\"minecraft:fortune\",lvl:2s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:1,Operation:0,UUID:[I;1938724135,-1990307863,-1389720157,431249605]}]}"
+            },
+            {
+              "function": "set_damage",
+              "damage": 8
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Cruel Axe of the Tyrant",
+                  "color": "#E60000",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "An axe holding the cumalative"
+                },
+                {
+                  "text": "madness of a corrupted "
+                },
+                {
+                  "text": "warrior king."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_sword",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:34,RepairCost:500,CustomModelData:7003,Enchantments:[{id:\"minecraft:sharpness\",lvl:2s},{id:\"minecraft:knockback\",lvl:1s},{id:\"minecraft:sweeping\",lvl:6s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.movement_speed\",Name:\"generic.movement_speed\",Amount:2,Operation:2,UUID:[I;1088743450,-875477809,-1314135935,1657651114],Slot:\"mainhand\"},{AttributeName:\"generic.attack_speed\",Name:\"generic.attack_speed\",Amount:25,Operation:1,UUID:[I;1681616561,417547010,-1483269358,732803974]}]}"
+            },
+            {
+              "function": "set_damage",
+              "damage": 7
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Katana of the Windswept Samurai",
+                  "color": "#CFF5FF",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "The katana is wrapped in"
+                },
+                {
+                  "text": "the swirling gusts of "
+                },
+                {
+                  "text": "the four winds."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_sword",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:34,RepairCost:500,CustomModelData:7002,Enchantments:[{id:\"minecraft:sharpness\",lvl:2s},{id:\"minecraft:smite\",lvl:6s},{id:\"minecraft:sweeping\",lvl:2s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:50,Operation:1,UUID:[I;-1523112435,720194747,-1567027621,-1983189426],Slot:\"mainhand\"}]}"
+            },
+            {
+              "function": "set_damage",
+              "damage": 9
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Suntouched Blade of Dawn",
+                  "color": "#FFB442",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "The blade is wrapped in"
+                },
+                {
+                  "text": "the cleansing infernos "
+                },
+                {
+                  "text": "of a lost sun."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_sword",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:34,RepairCost:500,Enchantments:[{id:\"minecraft:looting\",lvl:5s},{id:\"minecraft:sweeping\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.luck\",Name:\"generic.luck\",Amount:5,Operation:2,UUID:[I;483847043,-1911470372,-1493007995,-1350152974],Slot:\"mainhand\"}]}"
+            },
+            {
+              "function": "set_damage",
+              "damage": 7
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Gilded Dagger of the Royal",
+                  "color": "gold",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "The dagger is wrapped in gold,"
+                },
+                {
+                  "text": "attracting both envy"
+                },
+                {
+                  "text": " and treasure."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_sword",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:34,RepairCost:500,CustomModelData:7000,Enchantments:[{id:\"minecraft:smite\",lvl:7s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.attack_speed\",Name:\"generic.attack_speed\",Amount:2.5,Operation:0,UUID:[I;120189542,-791460657,-1242119988,-1909593171],Slot:\"mainhand\"}]}"
+            },
+            {
+              "function": "set_damage",
+              "damage": 10
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Moonkissed Rapier of Midnight",
+                  "color": "#DEF9FF",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "The rapier is wrapped in"
+                },
+                {
+                  "text": "the ever-present glow"
+                },
+                {
+                  "text": " of silver moonlight."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

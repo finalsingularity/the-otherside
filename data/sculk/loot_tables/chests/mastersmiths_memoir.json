@@ -1,0 +1,43 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{title:\"\",author:\"A Forgotten Mastersmith\",generation:3,pages:['{\"text\":\"Our world is dying, so I created 7 mighty artifacts forged from the dreams of this world to help fight against those who rose again, corrupted by the sculk.\\\\nA rapier, dagger, sword, katana, axe, shield and bow await those who are worthy.\"}']}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Mastersmith's Memoir"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "A memoir written by "
+                },
+                {
+                  "text": "a forgotten mastersmith."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{title:\"An Enchanter's Humblebrag #1\",author:\"A Forgotten Genius\",pages:['{\"text\":\"I have, after much trial and error managed to bind a part of The Otherside inside a pouch, creating a spatial pouch. Glorious is I, Thankful are thee. Now no there is more space in the inventory.\"}']}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "An Enchanter's Humblebrag #1"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "A forgotten genius' humblebrag"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

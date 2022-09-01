@@ -1,0 +1,313 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{title:\"Forgotten Book #1\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"After decades of fruitless research we finally managed to open a rift today. It is still unstable, but we managed to get a peek into the beyond - to the Otherside. This could be the answer, the answer to everything. Stronger bodies, longer lives, instant travel and unlimited power.\"}']}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Forgotten Book #1"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "A book from a forgotten "
+                },
+                {
+                  "text": "civilisation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{title:\"Forgotten Book #2\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"It has been three years since our first success, three years since we first lay eyes on what lay on the otherside. ve managed to support a stable rift today and managed to obtain our first sample from the other side.\"}']}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Forgotten Book #2"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "A book from a forgotten"
+                },
+                {
+                  "text": "civilisation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{title:\"Forgotten Book #3\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"The samples we gained are strange. What ever they are, what ever they once were they are now all almost completely engulfed by a strange organism. We\\'ve named it \\'Sculk\\', due to its dark colour and its nature of hiding behind the rift.\"}']}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Forgotten Book #3"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "A book from a forgotten"
+                },
+                {
+                  "text": "civilisation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{title:\"Forgotten Book #4\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"Today we learned that sculk feeds on essence. All living creatures have essence - a summary of all their life\\'s experience - which drops when they die. If we can figure out how to extract it we cold solve many resource problems.\"}']}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Forgotten Book #4"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "A book from a forgotten"
+                },
+                {
+                  "text": "civilisation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{title:\"Forgotten Book #4\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"More research into rifts shows that sculk exists in countless worlds beyond the rift. Analysis shows that there may have once been civilisation in the worlds beyond. I fear that we have opened Pandora\\'s box.\"}']}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Forgotten Book #5"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "A book from a forgotten"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{title:\"Forgotten Book #6\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"A great discovery occurred today! We have finally managed to extract essence from sculk, in order to power our tele-portals.\"}']}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Forgotten Book #6"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "A book from a forgotten"
+                },
+                {
+                  "text": "civiliation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{title:\"Forgotten Book #7\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"It is wrong! We were all so wrong and I fear we are too late. While we used sculk to power our world it slowly fed, growing in the deep dark caverns. Our planet is drained, it is dying and sculk is spreading as we die with it!\"}']}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Forgotten Book #7"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "A book from a forgotten"
+                },
+                {
+                  "text": "civilisation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{title:\"Forgotten Book #8\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"There is no hope left. The sculk has spread too far, raising even the dead in its endless quest for essence. The world is covered, our cities and resistances fallen. I fear even our plans to escape will be too late.\"}']}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Forgotten Book #8"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "A book from a forgotten"
+                },
+                {
+                  "text": "civilisation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{title:\"Forgotten Book #9\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"A final page, written as a goodbye. We leave now - a lost peoples – to a world not yet corrupted by this madness. Our Wardens guide us to safety, even as they fall prey to the corruption. They shall guard the keys, in the hope to seal away this terrible madness forevermore.\"}']}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Forgotten Book #9"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "A book from a forgotten"
+                },
+                {
+                  "text": "civilisation."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

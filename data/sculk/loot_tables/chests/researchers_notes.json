@@ -1,0 +1,43 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{title:\"\",author:\"A Forgotten Researcher\",generation:3,pages:['{\"text\":\"As the sculk spreads the connection to The Otherside grows. Now portals to the other side randomly open up, letting monsters pass through to our side. We have managed to create cages to limit the spawning, but even so they still pass through. I hope one day these portals can be destroyed.\"}']}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "A Researcher's Notes"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Notes written by "
+                },
+                {
+                  "text": "a forgotten researcher"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

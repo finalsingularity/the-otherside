@@ -1,0 +1,83 @@
+{
+  "type": "chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:255s},{id:\"minecraft:respiration\",lvl:4s},{id:\"minecraft:binding_curse\",lvl:1s},{id:\"minecraft:soul_speed\",lvl:4s},{id:\"minecraft:swift_sneak\",lvl:5s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Failed Enchantment"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "A failed experiment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{StoredEnchantments:[{id:\"minecraft:protection\",lvl:7s},{id:\"minecraft:binding_curse\",lvl:10s},{id:\"minecraft:soul_speed\",lvl:8s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Failed Enchantment"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "A failed experiment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
