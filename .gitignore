@@ -1,2 +1,4 @@
 .directory
 *.kate-swp
+*.zip
+working/

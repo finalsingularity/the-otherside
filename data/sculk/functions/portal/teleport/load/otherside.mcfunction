@@ -1,4 +1,3 @@
 forceload add ~ ~
-tp @s ~ 256 ~
-execute at @s run function sculk:portal/teleport/find_ground
+execute positioned over world_surface run tp @s ~ ~ ~
 forceload remove ~ ~
