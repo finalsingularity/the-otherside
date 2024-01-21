@@ -140,7 +140,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{HideFlags:34,RepairCost:500,CustomModelData:7003,Enchantments:[{id:\"minecraft:sharpness\",lvl:2s},{id:\"minecraft:knockback\",lvl:1s},{id:\"minecraft:sweeping\",lvl:6s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.movement_speed\",Name:\"generic.movement_speed\",Amount:2,Operation:2,UUID:[I;1088743450,-875477809,-1314135935,1657651114],Slot:\"mainhand\"},{AttributeName:\"generic.attack_speed\",Name:\"generic.attack_speed\",Amount:25,Operation:1,UUID:[I;1681616561,417547010,-1483269358,732803974]}]}"
+              "tag": "{HideFlags:34,RepairCost:500,CustomModelData:7003,Enchantments:[{id:\"minecraft:sharpness\",lvl:2s},{id:\"minecraft:knockback\",lvl:1s},{id:\"minecraft:sweeping_edge\",lvl:6s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.movement_speed\",Name:\"generic.movement_speed\",Amount:2,Operation:2,UUID:[I;1088743450,-875477809,-1314135935,1657651114],Slot:\"mainhand\"},{AttributeName:\"generic.attack_speed\",Name:\"generic.attack_speed\",Amount:25,Operation:1,UUID:[I;1681616561,417547010,-1483269358,732803974]}]}"
             },
             {
               "function": "set_damage",
@@ -183,7 +183,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{HideFlags:34,RepairCost:500,CustomModelData:7002,Enchantments:[{id:\"minecraft:sharpness\",lvl:2s},{id:\"minecraft:smite\",lvl:6s},{id:\"minecraft:sweeping\",lvl:2s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:50,Operation:1,UUID:[I;-1523112435,720194747,-1567027621,-1983189426],Slot:\"mainhand\"}]}"
+              "tag": "{HideFlags:34,RepairCost:500,CustomModelData:7002,Enchantments:[{id:\"minecraft:sharpness\",lvl:2s},{id:\"minecraft:smite\",lvl:6s},{id:\"minecraft:sweeping_edge\",lvl:2s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:50,Operation:1,UUID:[I;-1523112435,720194747,-1567027621,-1983189426],Slot:\"mainhand\"}]}"
             },
             {
               "function": "set_damage",
@@ -226,7 +226,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{HideFlags:34,RepairCost:500,CustomModelData:7001,Enchantments:[{id:\"minecraft:looting\",lvl:5s},{id:\"minecraft:sweeping\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.luck\",Name:\"generic.luck\",Amount:5,Operation:2,UUID:[I;483847043,-1911470372,-1493007995,-1350152974],Slot:\"mainhand\"}]}"
+              "tag": "{HideFlags:34,RepairCost:500,CustomModelData:7001,Enchantments:[{id:\"minecraft:looting\",lvl:5s},{id:\"minecraft:sweeping_edge\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.luck\",Name:\"generic.luck\",Amount:5,Operation:2,UUID:[I;483847043,-1911470372,-1493007995,-1350152974],Slot:\"mainhand\"}]}"
             },
             {
               "function": "set_damage",

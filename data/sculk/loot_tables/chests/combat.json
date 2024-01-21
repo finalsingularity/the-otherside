@@ -195,7 +195,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:4s},{id:\"minecraft:smite\",lvl:4s},{id:\"minecraft:bane_of_arthropods\",lvl:4s},{id:\"minecraft:knockback\",lvl:2s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:sweeping\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+              "tag": "{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:4s},{id:\"minecraft:smite\",lvl:4s},{id:\"minecraft:bane_of_arthropods\",lvl:4s},{id:\"minecraft:knockback\",lvl:2s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:sweeping_edge\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
             }
           ]
         },
