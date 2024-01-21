@@ -14,7 +14,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{title:\"\",author:\"A Forgotten Ritualist\",generation:3,pages:['{\"text\":\"I have found that due to the corruption much of the world’s essence is in flux. Due to this it is possible to bind life and elemental energies to ritual totems.\\\\nEach totem grants a user limited immortality and even elemental protections or powers.\\\\n\"}']}"
+              "tag": "{title:\"\",author:\"A Forgotten Ritualist\",generation:3,pages:['{\"text\":\"I have found that due to the corruption much of the world\\'s essence is in flux. Due to this it is possible to bind life and elemental energies to ritual totems.\\\\nEach totem grants a user limited immortality and even elemental protections or powers.\\\\n\"}']}"
             },
             {
               "function": "set_name",
@@ -28,7 +28,7 @@
               "function": "set_lore",
               "lore": [
                 {
-                  "text": "Observations written by "
+                  "text": "Observations written by"
                 },
                 {
                   "text": "a forgoten ritualist."

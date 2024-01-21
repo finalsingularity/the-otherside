@@ -14,7 +14,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{title:\"\",author:\"A Forgotten Researcher\",generation:3,pages:['{\"text\":\"As the sculk spreads the connection to The Otherside grows. Now portals to the other side randomly open up, letting monsters pass through to our side. We have managed to create cages to limit the spawning, but even so they still pass through. I hope one day these portals can be destroyed.\"}']}"
+              "tag": "{title:\"\",author:\"A Forgotten Researcher\",generation:3,pages:['{\"text\":\"As the sculk spreads the connection to the Otherside grows. Now portals to the Otherside randomly open up, letting monsters pass through to our side. We have managed to create cages to limit the spawning, but even so they still pass through. I hope one day these portals can be destroyed.\"}']}"
             },
             {
               "function": "set_name",
@@ -28,7 +28,7 @@
               "function": "set_lore",
               "lore": [
                 {
-                  "text": "Notes written by "
+                  "text": "Notes written by"
                 },
                 {
                   "text": "a forgotten researcher"

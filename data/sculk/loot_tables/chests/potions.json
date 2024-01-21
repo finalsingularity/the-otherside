@@ -15,7 +15,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:29,Amplifier:2b,Duration:6000}],CustomPotionColor:3724977}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:conduit_power\",amplifier:2b,duration:6000}],CustomPotionColor:3724977}"
             },
             {
               "function": "minecraft:set_name",
@@ -46,7 +46,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:3,Amplifier:3b,Duration:600},{Id:12,Amplifier:1b,Duration:600},{Id:33,Amplifier:5b,Duration:600}],CustomPotionColor:10909786}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:haste\",amplifier:3b,duration:600},{id:\"minecraft:fire_resistance\",amplifier:1b,duration:600},{id:\"minecraft:darkness\",amplifier:5b,duration:600}],CustomPotionColor:10909786}"
             },
             {
               "function": "minecraft:set_name",
@@ -77,7 +77,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:1,Amplifier:1b,Duration:400},{Id:3,Amplifier:5b,Duration:400},{Id:5,Amplifier:10b,Duration:400},{Id:11,Amplifier:5b,Duration:400},{Id:12,Amplifier:5b,Duration:400},{Id:20,Amplifier:1b,Duration:400},{Id:30,Amplifier:5b,Duration:400}],CustomPotionColor:16744479}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:speed\",amplifier:1b,duration:400},{id:\"minecraft:haste\",amplifier:5b,duration:400},{id:\"minecraft:strength\",amplifier:10b,duration:400},{id:\"minecraft:resistance\",amplifier:5b,duration:400},{id:\"minecraft:fire_resistance\",amplifier:5b,duration:400},{id:\"minecraft:wither\",amplifier:1b,duration:400},{id:\"minecraft:dolphins_grace\",amplifier:5b,duration:400}],CustomPotionColor:16744479}"
             },
             {
               "function": "minecraft:set_name",
@@ -108,7 +108,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:1,Amplifier:2b,Duration:500},{Id:3,Amplifier:2b,Duration:500},{Id:5,Amplifier:7b,Duration:500},{Id:11,Amplifier:1b,Duration:500},{Id:17,Amplifier:2b,Duration:800},{Id:19,Amplifier:2b,Duration:600},{Id:33,Amplifier:1b,Duration:600}],CustomPotionColor:16711680}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:speed\",amplifier:2b,duration:500},{id:\"minecraft:haste\",amplifier:2b,duration:500},{id:\"minecraft:strength\",amplifier:7b,duration:500},{id:\"minecraft:resistance\",amplifier:1b,duration:500},{id:\"minecraft:hunger\",amplifier:2b,duration:800},{id:\"minecraft:poison\",amplifier:2b,duration:600},{id:\"minecraft:darkness\",amplifier:1b,duration:600}],CustomPotionColor:16711680}"
             },
             {
               "function": "minecraft:set_name",
@@ -142,7 +142,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:2,Amplifier:127b,Duration:200},{Id:4,Amplifier:127b,Duration:200},{Id:11,Amplifier:2b,Duration:200},{Id:18,Amplifier:127b,Duration:200},{Id:33,Amplifier:10b,Duration:200}],CustomPotionColor:11048859}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:slowness\",amplifier:127b,duration:200},{id:\"minecraft:mining_fatigue\",amplifier:127b,duration:200},{id:\"minecraft:resistance\",amplifier:2b,duration:200},{id:\"minecraft:weakness\",amplifier:127b,duration:200},{id:\"minecraft:darkness\",amplifier:10b,duration:200}],CustomPotionColor:11048859}"
             },
             {
               "function": "minecraft:set_name",
@@ -173,7 +173,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:2,Amplifier:127b,Duration:200}],CustomPotionColor:0}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:slowness\",amplifier:127b,duration:200}],CustomPotionColor:0}"
             },
             {
               "function": "minecraft:set_name",
@@ -204,7 +204,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:1,Amplifier:100b,Duration:200},{Id:3,Amplifier:100b,Duration:100},{Id:29,Amplifier:100b,Duration:100},{Id:30,Amplifier:100b,Duration:200}],CustomPotionColor:7520207}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:speed\",amplifier:100b,duration:200},{id:\"minecraft:haste\",amplifier:100b,duration:100},{id:\"minecraft:conduit_power\",amplifier:100b,duration:100},{id:\"minecraft:dolphins_grace\",amplifier:100b,duration:200}],CustomPotionColor:7520207}"
             },
             {
               "function": "minecraft:set_name",
@@ -235,7 +235,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:2,Amplifier:5b,Duration:200},{Id:18,Amplifier:5b,Duration:200},{Id:33,Amplifier:5b,Duration:200}],CustomPotionColor:0}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:slowness\",amplifier:5b,duration:200},{id:\"minecraft:weakness\",amplifier:5b,duration:200},{id:\"minecraft:darkness\",amplifier:5b,duration:200}],CustomPotionColor:0}"
             },
             {
               "function": "minecraft:set_name",
@@ -266,7 +266,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:8,Amplifier:5b,Duration:600},{Id:28,Amplifier:1b,Duration:600}],CustomPotionColor:10747135}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:jump_boost\",amplifier:5b,duration:600},{id:\"minecraft:slow_falling\",amplifier:1b,duration:600}],CustomPotionColor:10747135}"
             },
             {
               "function": "minecraft:set_name",
@@ -297,7 +297,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:11,Amplifier:10b,Duration:120},{Id:25,Amplifier:120b,Duration:10}],CustomPotionColor:1703705}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:resistance\",amplifier:10b,duration:120},{id:\"minecraft:levitation\",amplifier:120b,duration:10}],CustomPotionColor:1703705}"
             },
             {
               "function": "minecraft:set_name",
@@ -328,7 +328,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:25,Amplifier:100b,Duration:20}],CustomPotionColor:4653056}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:levitation\",amplifier:100b,duration:20}],CustomPotionColor:4653056}"
             },
             {
               "function": "minecraft:set_name",
@@ -362,7 +362,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:32,CustomPotionEffects:[{Id:11,Amplifier:10b,Duration:240},{Id:25,Amplifier:120b,Duration:40}],CustomPotionColor:4325376}"
+              "tag": "{HideFlags:32,custom_potion_effects:[{id:\"minecraft:resistance\",amplifier:10b,duration:240},{id:\"minecraft:levitation\",amplifier:120b,duration:40}],CustomPotionColor:4325376}"
             },
             {
               "function": "minecraft:set_name",

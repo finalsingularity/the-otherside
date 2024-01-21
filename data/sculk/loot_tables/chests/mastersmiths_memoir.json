@@ -14,7 +14,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{title:\"\",author:\"A Forgotten Mastersmith\",generation:3,pages:['{\"text\":\"Our world is dying, so I created 7 mighty artifacts forged from the dreams of this world to help fight against those who rose again, corrupted by the sculk.\\\\nA rapier, dagger, sword, katana, axe, shield and bow await those who are worthy.\"}']}"
+              "tag": "{title:\"\",author:\"A Forgotten Mastersmith\",generation:3,pages:['{\"text\":\"Our world is dying, so I created 7 mighty artifacts; forged from the dreams of this world to help fight against those who rose again, corrupted by the sculk.\\\\nA rapier, dagger, sword, katana, axe, shield and bow await those who are worthy.\"}']}"
             },
             {
               "function": "set_name",
@@ -31,7 +31,7 @@
                   "text": "A memoir written by "
                 },
                 {
-                  "text": "a forgotten mastersmith."
+                  "text": "a forgotten Mastersmith."
                 }
               ]
             }

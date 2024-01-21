@@ -10,7 +10,7 @@ The datapack download is the same as the resource pack download. Download the da
 
 This datapack was made for the third [Datapack Jam](https://www.planetminecraft.com/group/datapack_jam/). The theme was "Corrupted".
 
-> At the outer fringes of our universe there has been a force – a great force, but terrible - skulking at the edges and slowly devouring it, changing it, corrupting it.
+> At the outer fringes of our universe there has been a force - a great force, but terrible - skulking at the edges and slowly devouring it, changing it, corrupting it.
 > 
 > Worlds have fallen, civilisations consumed, changed and all of it feeding the endless madness, the endless hunger.
 > 

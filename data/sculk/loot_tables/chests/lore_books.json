@@ -49,7 +49,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{title:\"Forgotten Book #2\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"It has been three years since our first success, three years since we first lay eyes on what lay on the otherside. ve managed to support a stable rift today and managed to obtain our first sample from the other side.\"}']}"
+              "tag": "{title:\"Forgotten Book #2\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"It has been three years since our first success, three years since we first lay eyes on what lay on the Otherside. We managed to support a stable rift today and managed to obtain our first sample from the Otherside.\"}']}"
             },
             {
               "function": "minecraft:set_name",
@@ -166,6 +166,9 @@
               "lore": [
                 {
                   "text": "A book from a forgotten"
+                },
+                {
+                  "text": "civilisation."
                 }
               ]
             }
@@ -199,7 +202,7 @@
                   "text": "A book from a forgotten"
                 },
                 {
-                  "text": "civiliation"
+                  "text": "civilisation."
                 }
               ]
             }
@@ -284,7 +287,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{title:\"Forgotten Book #9\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"A final page, written as a goodbye. We leave now - a lost peoples – to a world not yet corrupted by this madness. Our Wardens guide us to safety, even as they fall prey to the corruption. They shall guard the keys, in the hope to seal away this terrible madness forevermore.\"}']}"
+              "tag": "{title:\"Forgotten Book #9\",author:\"A Forgotten Scholar\",generation:3,pages:['{\"text\":\"A final page, written as a goodbye. We leave now - a lost peoples - to a world not yet corrupted by this madness. Our Wardens guide us to safety, even as they fall prey to the corruption. They shall guard the keys, in the hope to seal away this terrible madness forevermore.\"}']}"
             },
             {
               "function": "minecraft:set_name",
